@@ -418,3 +418,16 @@ int main() {
     return 0;
 }
 
+/*
+CreativityBonus-1: LIFO (stack) ensures the most recent stress alerts gets immediate attention since newer issues often indicate worsening conditions.
+For bridge components,recent stress detections likely reflect current load impacts that need urgent inspection to prevent failures
+
+CreativityBonus-2: Archiving older test results maintains optimal system performance by keeping only the most relevant recent data in active memory, 
+The archived records still provide valuable long term trends for engineers analyzing wear patterns and planning preventative maintenance schedules
+
+CreativityBonus-3: High tension cables can stretch from prolonged wind loads and heavy traffic vibrations. This is fixed using self-adjusting hydraulic tensioners that 
+automatically maintain optimal cable force, monitored by strain gauge sensors embedded in the anchor points
+
+CreativityBonus-4: For cracked concrete decks, we're testing a bio-concrete mix containing bacteria that secrete limestone when activated by moisture,
+This self healing material automatically fills micro-fractures within 72 hours of water exposure
+*/
